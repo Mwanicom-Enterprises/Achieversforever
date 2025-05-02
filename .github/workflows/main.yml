@@ -1,0 +1,49 @@
+    Define Health Indicators and Attendance Metrics
+
+        Weight, height, age, vaccination status
+
+        Daily check-in/check-out times
+
+        Meal records and hygiene checks
+
+    Design Database Schema
+
+        Create tables for children, attendance logs, health records, caregivers
+
+        Ensure data privacy compliance
+
+    Develop Digital Forms or Mobile App
+
+        Interface for crèche staff to enter data (mobile-first, offline-ready)
+
+        Include dropdowns, age-appropriate fields, and health alert flags
+
+    Integrate M-Scan or Mobile Diagnostic Tools (if available)
+
+        Link real-time scanning results to health profiles
+
+    Create an Admin Dashboard
+
+        Visual summaries of child nutrition status, absences, health alerts
+
+    Train Crèche Workers and Youth Volunteers
+
+        On data entry, device usage, and how to interpret/report findings
+
+    Pilot the System in 1–2 Crèche Centers
+
+        Collect feedback and debug usability issues
+
+    Implement Data Backup and Offline Sync Feature
+
+        Ensure resilience in areas with unstable connectivity
+
+    Set Up Regular Reporting Mechanisms
+
+        Weekly auto-reports for project staff, monthly summaries for stakeholders
+
+    Document and Review
+
+    Capture lessons learned
+
+    Adjust for broader rollout
